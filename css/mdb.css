@@ -182,6 +182,10 @@
   background-color: #f50057 !important; }
 
 .pink.accent-4 {
+  background-color: #c51164 !important; }
+.pink.accent-6 {
+  background-color: #c51161 !important; }
+.pink.accent-7 {
   background-color: #c51162 !important; }
 
 .purple.lighten-5 {
@@ -200,6 +204,8 @@
   background-color: #ab47bc !important; }
 
 .purple {
+  background-color: #9c27b0 !important; }
+.purple1 {
   background-color: #9c27b0 !important; }
 
 .purple-text {
@@ -258,6 +264,8 @@
 
 .deep-purple {
   background-color: #673ab7 !important; }
+.deep-purple2 {
+  background-color: #473cb7 !important; }
 
 .deep-purple-text {
   color: #673ab7 !important; }
